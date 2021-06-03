@@ -8,7 +8,7 @@
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 <!--* [Screenshots](#screenshots)-->
-* [Setup](#setup)
+<!--* [Setup](#setup))-->
 * [Project Status](#project-status)
 <!--* [Room for Improvement](#room-for-improvement)-->
 * [Acknowledgements](#acknowledgements)
@@ -67,16 +67,7 @@ It is a console application that checking if the loaded graph is a graph adjoint
 Position the file in the program that contains the graph you want to examine and run the program.
 
 Graph example 
-`1 2
-1 7
-2 3
-3 4
-4 5
-5 6
-6 7
-7 8
-6 2
-3 1`
+![example](./images/example.png)
 
 
 ## Project Status
