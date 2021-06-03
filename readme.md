@@ -31,11 +31,11 @@ It is a console application that checking if the loaded graph is a graph adjoint
 
 Position the file in the program that contains the graph you want to examine and run the program.
 
-### Graph example 
+#### Graph example 
 
 ![example](./images/example.png)
 
-### Sample program output 
+#### Sample program output 
 
 ![example](./images/output.png)
 
