@@ -35,6 +35,9 @@ Position the file in the program that contains the graph you want to examine and
 
 ![example](./images/example.png)
 
+###sample program output 
+
+![example](./images/output.png)
 
 ## Project Status
 Project is: _no longer being worked on_. 
